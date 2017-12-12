@@ -13,7 +13,7 @@ namespace TextReaderReverser
 
             var reversed = text.Reverse();
 
-            Console.WriteLine("++++ Original text ++++++");
+            Console.WriteLine("++++ Reversed text ++++++");
             Console.WriteLine(reversed);
 
             File.WriteAllText("reversed-file.txt", reversed);

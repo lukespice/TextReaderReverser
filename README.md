@@ -1,3 +1,7 @@
+## Requirements ##
+
+.NET Core 2
+
 ## Test ##
 
 ```
